@@ -1,0 +1,1 @@
+Dockerfile for Java 8 and latest Play Framework
